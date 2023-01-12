@@ -1,0 +1,1 @@
+{"id":"d0ba6ab2-27e9-4d61-b80b-229e57d1b4bc","space":47634,"runtime":"nodejs14.x","name":"AuthAPI","path":"rf1qzv","project":"d0dxoxer","account":"144798365827","region":"ap-south-1","deps":["bcrypt@^5.1.0","dotenv@^16.0.3","express@^4.18.2","jsonwebtoken@^9.0.0","mongoose@^6.8.3","nodemon@^2.0.20","validator@^13.7.0"],"envs":null,"public":true,"log_level":"debug","cron":""}
